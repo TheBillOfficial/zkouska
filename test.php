@@ -2,5 +2,5 @@
 
  echo "Ahoj";
 phpinfo()
-/* TEST
+/* TEST AHOJ TY HOVBNE
 ?>
