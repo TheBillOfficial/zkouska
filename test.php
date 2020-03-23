@@ -1,10 +1,8 @@
 <?PHP
 
  echo "Ahoj";
-phpinfo()
-/* TEST AHOJ TY HOVBNE
 
- * 
- * do pice kokot?>
- */
+ /*
+  * Zkouška 23.03.2020
+  */
 ?>
